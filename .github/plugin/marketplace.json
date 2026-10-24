@@ -1,0 +1,16 @@
+{
+  "name": "ai-marketplace",
+  "owner": { "name": "zss-rzwart" },
+  "metadata": {
+    "description": "Marketplace of plugins, skills, agents and instructions for AI coding assistants",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./plugins/example-plugin",
+      "description": "Example plugin bundling a skill and an agent; copy as a template",
+      "version": "0.1.0"
+    }
+  ]
+}
